@@ -1,4 +1,4 @@
-import { store } from '../reducers'
+import store from '../store/store';
 import { Provider } from 'react-redux';
 import KeplerGl from 'kepler.gl';
 import '../App.css';
